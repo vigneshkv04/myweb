@@ -1,0 +1,13 @@
+h1 {
+  padding: 20px;
+  border: 2px solid black;
+  background-color: blue;
+}
+
+@media only screen and (max-width: 600px) {
+  h1 {
+    padding: 20px;
+    border: 2px solid black;
+    background-color: red;
+  }
+}
